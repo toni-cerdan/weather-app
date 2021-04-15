@@ -1,0 +1,9 @@
+.CityWeatherBox {
+  position: absolute;
+  width: 30vw;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+
+  background: #1e213a;
+}

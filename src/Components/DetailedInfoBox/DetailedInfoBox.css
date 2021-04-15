@@ -1,0 +1,9 @@
+.DetailedInfoBox {
+  position: absolute;
+  width: 70vw;
+  height: 100vh;
+  left: 30vw;
+  top: 0px;
+
+  background: #100e1d;
+}
